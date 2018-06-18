@@ -26,6 +26,6 @@ function makeInt(a) {
   return parseInt(a);
 }
 
-// function add(a, b) {
-//   return a + b;
-// }
+function add(a, b) {
+  return a + b;
+}
