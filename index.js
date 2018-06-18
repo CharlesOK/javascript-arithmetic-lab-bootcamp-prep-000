@@ -22,8 +22,8 @@ function dec(a) {
   return a - 1;
 }
 
-function add(a, b) {
-  return a + b;
+function makeInt(a) {
+  return parseInt(a);
 }
 
 function add(a, b) {
